@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/begin/cups.jpg'
 ---
 
-My name is Natasha Greenblatt. I am an artist, writer and theatre maker. Recently I have been self-medicating with hot chocolate as I attempt to surive motherhood. Follow my descent into maddness.
+My name is Natasha Greenblatt. I am an artist, writer and theatre maker. Recently I have been self-medicating with hot chocolate as I attempt to surive motherhood. Follow my descent into madness.
 
 ## Cherry Bomb
 
