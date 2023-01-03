@@ -34,7 +34,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`One mama's quest to find the perfect hot chocolate.`}
+        content={`The quest to find the perfect hot chocolate.`}
       />
       <meta property="og:image" content="/assets/blog/begin/cups.jpg" />
     </Head>
