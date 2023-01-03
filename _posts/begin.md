@@ -20,6 +20,6 @@ I was accompanied by my pregnant friend, who lives around the corner from Cherry
 
 Anyways, back to the hot chocolate. I didn't really get a chance to try it because my baby began to cry. I stopped to nurse her outside. A pair of Polish women stopped to express their concern for my bare breast (it was 5°C outside, my boob was fine). By the time I returned to my hot chocolate, it was no longer hot.
 
-In the end, although the hot chocolate did not blow my mind, the experience going to Cherry Bomb is always nice. Will be going back.
+In the end, although the hot chocolate did not blow my mind, the experience going to Cherry Bomb is always nice. Will be going back!
 
 ![image](/assets/blog/begin/cchc.jpg)
