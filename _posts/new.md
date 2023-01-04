@@ -1,5 +1,5 @@
 ---
-title: 'New post begins.'
+title: 'New post.'
 excerpt: 'Yeah boi'
 coverImage: '/assets/blog/begin/cups.jpg'
 date: '2023-01-04T12:05:07.322Z'
